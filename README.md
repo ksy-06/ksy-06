@@ -1,4 +1,8 @@
-## Hi there 👋
+##Introduction
+
+안녕하십니까 컴퓨터공학전공생 김성윤입니다.
+
+
 
 <!--
 **ksy-06/ksy-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
