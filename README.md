@@ -1,20 +1,21 @@
-## Introduction
+# 👋 **안녕하세요!**
 
-안녕하십니까 컴퓨터공학전공생 김성윤입니다.
+컴퓨터공학을 전공하고 있는 대학생입니다.  
+현재 다양한 프로그래밍 언어와 소프트웨어 개발에 대해 배우고 있습니다.
 
+## 💻 **관심 분야**
+- 웹 개발
+- 인공지능(AI)
+- 데이터 분석
 
+## 📚 **학습 중**
+- C / C++
+- Python
+- 자료구조 & 알고리즘
 
-<!--
-**ksy-06/ksy-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 **목표**
+꾸준한 프로젝트와 공부를 통해 실력을 키우고,  
+실무에서 활용 가능한 개발자가 되는 것이 목표입니다.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 **연락**
+- Email: sun0ju77@gmail.com
